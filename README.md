@@ -85,7 +85,7 @@ Desenvolver uma aplicação que permita o cadastro de produtos, exibição de pr
 #### Fluxo 3: Cadastro de Novo Produto a partir da Listagem
 
 1. O usuário acessa a tela de listagem de produtos.
-2. O usuário clica no botão "Cadastrar Novo Produto".
+2. O usuário selecionar a opção "Cadastrar Novo Produto".
 3. O sistema exibe o formulário de cadastro de produto.
 4. O usuário preenche os campos e cadastra o novo produto.
 5. A listagem de produtos é atualizada automaticamente, exibindo o novo produto.
@@ -93,6 +93,3 @@ Desenvolver uma aplicação que permita o cadastro de produtos, exibição de pr
 ---
 
 
-### Conclusão
-
-Esta documentação define claramente as funcionalidades necessárias para o teste técnico solicitado pela Oak Tecnologia. O sistema de cadastro e listagem de produtos tem como objetivo ser simples, eficiente e fácil de usar, permitindo a interação intuitiva do usuário com a aplicação.
